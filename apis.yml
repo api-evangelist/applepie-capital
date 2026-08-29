@@ -12,6 +12,9 @@ description: >-
   API Evangelist network as a fintech company profile; no public API or developer
   program has been identified as of this enrichment pass.
 url: https://raw.githubusercontent.com/api-evangelist/applepie-capital/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "It is backed by QED Investors and is tracked in the API Evangelist network as a fintech company profile; no public API or developer program has been identified as of this enrichment pass."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
